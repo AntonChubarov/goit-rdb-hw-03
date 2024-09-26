@@ -1,0 +1,1 @@
+select name, phone from hw3.shippers;

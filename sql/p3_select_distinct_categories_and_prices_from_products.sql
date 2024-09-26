@@ -1,0 +1,1 @@
+select distinct category_id, price from hw3.products order by price desc limit 10;

@@ -1,0 +1,1 @@
+select count(*) as product_count from hw3.products where price between 20 and 100;
